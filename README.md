@@ -21,7 +21,7 @@ Sou um **Desenvolvedor de Software**, com foco em **React.js**, **Next.js** e **
 - **Colaboração**: Valorizo uma boa comunicação e trabalho em equipe para desenvolver soluções de alta qualidade.
 - **Práticas de Desenvolvimento**: Acredito em escrever código limpo, bem estruturado e de fácil manutenção, com foco na **escalabilidade** e **manutenibilidade**.
 
-## 🔧 Projetos em destaque
+## 🔧 Projetos em Desenvolvimento
 
 - [Cursos da plataforma "Cod3r" - GitHub Link](https://github.com/CaioCeretta/Cod3r): Projetos diversificados, focados no desenvolvimento full-stack.
 - [Java Spring Boot - GitHub Link](https://github.com/CaioCeretta/udemy-chad-spring-boot): Curso focado no aprendizado de tecnologias back-end com Spring Boot.

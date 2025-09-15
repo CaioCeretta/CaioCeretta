@@ -1,6 +1,6 @@
 # Olá! Eu sou o Caio Ceretta 👋
 
-Sou um Desenvolvedor de Software, com foco em **React.js**, **Next.js** e **Java Spring Boot**. Estou sempre buscando aprender novas tecnologias e melhorar minhas habilidades tanto técnicas como pessoais, e buscando colocar ênfase em boas práticas no desenvolvimento de aplicações escaláveis e eficientes.
+Sou um Desenvolvedor de Software, com foco em **React.js**, **Next.js** e **Java Spring Boot**. Estou sempre buscando aprender novas tecnologias e melhorar minhas habilidades tanto técnicas como pessoais, com ênfase em boas práticas no desenvolvimento de aplicações escaláveis e eficientes.
 
 ## 💻 Foco de aprendizado atual
 

@@ -1,32 +1,30 @@
 # Olá! Eu sou o Caio Ceretta 👋
 
-Sou um **Desenvolvedor de Software**, com foco em **React.js**, **Next.js** e **Java Spring Boot**. Estou sempre aprendendo novas tecnologias e aprimorando minhas habilidades técnicas e de design de software, com ênfase em boas práticas no desenvolvimento de aplicações escaláveis e eficientes.
+Sou um Desenvolvedor de Software, com foco em **React.js**, **Next.js** e **Java Spring Boot**. Estou sempre buscando aprender novas tecnologias e melhorar minhas habilidades técnicas tanto técnicas como pessoais, sempre buscando colocar ênfase em boas práticas no desenvolvimento de aplicações escaláveis e eficientes.
 
 ## 💻 Tecnologias que estou aprendendo
 
-- **React.js** e **Next.js**: Construção de interfaces dinâmicas e aplicações de alto desempenho.
-- **Java Spring Boot**: Desenvolvimento de back-ends robustos, focado em APIs RESTful.
-- **Arquitetura Hexagonal** e **Clean Architecture**: Foco em sistemas desacoplados, testáveis e escaláveis.
+- **React.js** e **Next.js**: Construção de UIs e aplicações de alto desempenho.
+- **Java Spring Boot**: Desenvolvimento de back-ends, focado em APIs RESTful.
 
 ## 📚 O que estou estudando atualmente
 
-- **Princípios SOLID** e boas práticas no design de sistemas.
-- **Testes automatizados** com frameworks como JUnit, Jest e Testing Library.
-- **Desenvolvimento Ágil** e práticas de **Integração Contínua** e **Entrega Contínua**.
-- **APIs RESTful** e **GraphQL** com foco em performance e escalabilidade.
+Atualmente focado em Next.js e Java, fortalecendo tanto minha base no front quanto no back-end.
+
+Investindo no desenvolvimento de soft skills, como arquiteturas e paradigmas, para criar soluções mais manuteníveis, organizadas e escaláveis.
 
 ## 🧠 Soft Skills e Filosofia de Trabalho
 
 - **Aprendizado contínuo**: Busco constantemente melhorar minhas habilidades técnicas e aprender novas metodologias e arquiteturas.
-- **Colaboração**: Valorizo uma boa comunicação e trabalho em equipe para desenvolver soluções de alta qualidade.
-- **Práticas de Desenvolvimento**: Acredito em escrever código limpo, bem estruturado e de fácil manutenção, com foco na **escalabilidade** e **manutenibilidade**.
+- **Colaboração**: Sempre busco melhorar minha comunicação e trabalho em equipe para um desenvolvimento mais fluido.
+- **Práticas de Desenvolvimento**: Sempre buscando aprimorar o meu desenvolvimento, buscando aplicar meus conhecimentos relacionados a código limpo, os tornando de fácil manutenção e gerenciamento.
 
 ## 🔧 Projetos em Desenvolvimento
 
 - [Cursos da plataforma "Cod3r" - GitHub Link](https://github.com/CaioCeretta/Cod3r): Projetos diversificados, focados no desenvolvimento full-stack.
 - [Java Spring Boot - GitHub Link](https://github.com/CaioCeretta/udemy-chad-spring-boot): Curso focado no aprendizado de tecnologias back-end com Spring Boot.
 
-## 📫 Vamos nos conectar!
+## 📫 Informações para contato!
 
 - [LinkedIn](https://linkedin.com/in/caioceretta)
 - 📧 caio.ceretta@gmail.com

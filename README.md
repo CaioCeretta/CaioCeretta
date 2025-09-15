@@ -27,5 +27,4 @@ Investindo no desenvolvimento de soft skills, como arquiteturas e paradigmas, pa
 ## 📫 Informações para contato!
 
 - [LinkedIn](https://linkedin.com/in/caioceretta)
-- 📧 caio.ceretta@gmail.com
-- 📞 (15) 98165-3557
+- 📧 caioceretta@gmail.com

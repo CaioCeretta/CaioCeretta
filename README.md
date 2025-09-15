@@ -9,7 +9,7 @@ Sou um Desenvolvedor de Software, com foco em **React.js**, **Next.js** e **Java
 
 ## 📚 O que estou estudando atualmente
 
-Atualmente focado em Next.js e Java, fortalecendo tanto minha base no front quanto no back-end.
+No momento estou me aprofundando em Next.js e Java, fortalecendo tanto minha base no front quanto no back-end.
 
 Investindo no desenvolvimento de soft skills, como arquiteturas e paradigmas, para criar soluções mais manuteníveis, organizadas e escaláveis.
 
@@ -17,7 +17,7 @@ Investindo no desenvolvimento de soft skills, como arquiteturas e paradigmas, pa
 
 - **Aprendizado contínuo**: Busco constantemente melhorar minhas habilidades técnicas e aprender novas metodologias e arquiteturas.
 - **Colaboração**: Sempre busco melhorar minha comunicação e trabalho em equipe para um desenvolvimento mais fluido.
-- **Práticas de Desenvolvimento**: Sempre buscando aprimorar o meu desenvolvimento, buscando aplicar meus conhecimentos relacionados a código limpo, os tornando de fácil manutenção e gerenciamento.
+- **Práticas de Desenvolvimento**: Em meus projetos, busco aplicar meus conhecimentos relacionados a código limpo, os tornando de fácil manutenção e gerenciamento.
 
 ## 🔧 Projetos em Desenvolvimento
 

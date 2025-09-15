@@ -2,18 +2,18 @@
 
 Sou um Desenvolvedor de Software, com foco em **React.js**, **Next.js** e **Java Spring Boot**. Estou sempre buscando aprender novas tecnologias e melhorar minhas habilidades tanto técnicas como pessoais, e buscando colocar ênfase em boas práticas no desenvolvimento de aplicações escaláveis e eficientes.
 
-## 💻 Tecnologias que estou aprendendo
+## 💻 Foco de aprendizado atual
 
 - **React.js** e **Next.js**: Construção de UIs e aplicações de alto desempenho.
 - **Java Spring Boot**: Desenvolvimento de back-ends, focado em APIs RESTful.
 
-## 📚 O que estou estudando atualmente
+## 📚 Áreas de estudo e prática
 
 No momento estou me aprofundando em Next.js e Java, fortalecendo tanto minha base no front quanto no back-end.
 
 Investindo no desenvolvimento de soft skills, como arquiteturas e paradigmas, para criar soluções mais manuteníveis, organizadas e escaláveis.
 
-## 🧠 Soft Skills e Filosofia de Trabalho
+## 🧠 Como eu busco trabalhar
 
 - **Aprendizado contínuo**: Busco constantemente melhorar minhas habilidades técnicas e aprender novas metodologias e arquiteturas.
 - **Colaboração**: Sempre busco melhorar minha comunicação e trabalho em equipe para um desenvolvimento mais fluido.

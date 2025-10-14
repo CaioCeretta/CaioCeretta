@@ -23,7 +23,8 @@ Investindo no desenvolvimento de soft skills, como arquiteturas e paradigmas, pa
 
 - [Cursos da plataforma "Cod3r" - GitHub Link](https://github.com/CaioCeretta/Cod3r): Projetos diversificados, focados no desenvolvimento full-stack.
 - [Java Spring Boot - GitHub Link](https://github.com/CaioCeretta/udemy-chad-spring-boot): Curso focado no aprendizado de tecnologias back-end com Spring Boot.
-
+- [Conceitos Fundamentais e Resolução de Dúvidas Técnicas- GitHub Link:](https://github.com/CaioCeretta/code-studies) Repositório dedicado ao estudo de conceitos teóricos fundamentais, visando construir uma base sólida e esclarecer dúvidas frequentes.
+ 
 ## 📫 Informações para contato!
 
 - [LinkedIn](https://linkedin.com/in/caioceretta)

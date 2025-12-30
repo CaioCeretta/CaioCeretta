@@ -24,7 +24,7 @@ Investindo no desenvolvimento de soft skills, como arquiteturas e paradigmas, pa
 - [Cod3r "Arquiteto" courses - GitHub Link](https://github.com/CaioCeretta/Cod3r/tree/main/architect): Repository dedicated to the study of concepts beyond the code, exploring software architecture and best practices.
 - [Java Spring Boot - GitHub Link](https://github.com/CaioCeretta/udemy-chad-spring-boot): Curso focado no aprendizado de tecnologias back-end com Spring Boot.
 - [Conceitos Fundamentais e Resolução de Dúvidas Técnicas - GitHub Link:](https://github.com/CaioCeretta/code-studies): Repositório onde procuro estudar e aplicar conceitos teóricos, fazendo com que eu construa uma base sólida de conceitos e esclareça dúvidas recorrentes.
-- [Rocketseat: Formação em angular- GitHub Link:](https://github.com/CaioCeretta/Rocketseat/tree/main/angular/formacao-em-angular): Repositório dedicado aos estudos e à formação em Angular
+- [Rocketseat: Formação em Angular- GitHub Link:](https://github.com/CaioCeretta/Rocketseat/tree/main/angular/formacao-em-angular): Repositório dedicado aos estudos e à formação em Angular
 
  
 ## 📫 Informações para contato!
